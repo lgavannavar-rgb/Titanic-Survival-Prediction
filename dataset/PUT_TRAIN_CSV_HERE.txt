@@ -1,0 +1,2 @@
+Place the original Kaggle Titanic training file named train.csv in this folder.
+The application can download it automatically when internet access is available.
