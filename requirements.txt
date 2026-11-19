@@ -1,2 +1,5 @@
 streamlit>=1.32
 pandas>=2
+numpy
+scikit-learn
+plotly
